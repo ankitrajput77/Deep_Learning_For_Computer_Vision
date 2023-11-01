@@ -4,3 +4,4 @@
 3. https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html
 4. https://github.com/vdumoulin/conv_arithmetic
 5. https://poloclub.github.io/cnn-explainer/
+6. https://www.geeksforgeeks.org/introduction-deep-learning/
