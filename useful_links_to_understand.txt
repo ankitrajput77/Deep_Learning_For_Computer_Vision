@@ -5,3 +5,4 @@
 4. https://github.com/vdumoulin/conv_arithmetic
 5. https://poloclub.github.io/cnn-explainer/
 6. https://www.geeksforgeeks.org/introduction-deep-learning/
+7. https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/
